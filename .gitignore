@@ -1,0 +1,13 @@
+artifacts/*.csv
+artifacts/*.tif
+artifacts/*.nc
+artifacts/*.RData
+www/diet/*.csv
+www/diet/lib/
+.DS_Store
+.RData
+.Rhistory
+rsconnect/
+
+_synth/
+_real_data_backup/

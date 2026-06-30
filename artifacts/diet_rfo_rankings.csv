@@ -1,0 +1,433 @@
+﻿"genus","Hebrew_Genus_Names","Family","life_form","sex_season","rfo"
+"Adonis","דמומית משוננת","Ranunculaceae","Annual","male_spring",0.074243
+"Adonis","דמומית משוננת","Ranunculaceae","Annual","female_spring",0
+"Adonis","דמומית משוננת","Ranunculaceae","Annual","female_summer",0
+"Adonis","דמומית משוננת","Ranunculaceae","Annual","male_summer",0
+"Allium","שום קצר, קטוע, צנוע, הרשת, הנגב, המדבר, הלענה, דרומי, גבוה, אשרסון, ארץ ישראלי, ארדל","Amaryllidaceae","Geophyte","male_spring",0.006876
+"Allium","שום קצר, קטוע, צנוע, הרשת, הנגב, המדבר, הלענה, דרומי, גבוה, אשרסון, ארץ ישראלי, ארדל","Amaryllidaceae","Geophyte","female_spring",0.007448
+"Allium","שום קצר, קטוע, צנוע, הרשת, הנגב, המדבר, הלענה, דרומי, גבוה, אשרסון, ארץ ישראלי, ארדל","Amaryllidaceae","Geophyte","female_summer",0
+"Allium","שום קצר, קטוע, צנוע, הרשת, הנגב, המדבר, הלענה, דרומי, גבוה, אשרסון, ארץ ישראלי, ארדל","Amaryllidaceae","Geophyte","male_summer",0.002255
+"Amaranthus","ירבוז לבן, מופשל","Amaranthaceae","Annual","male_spring",0.030991
+"Amaranthus","ירבוז לבן, מופשל","Amaranthaceae","Annual","female_spring",0
+"Amaranthus","ירבוז לבן, מופשל","Amaranthaceae","Annual","female_summer",0.052773
+"Amaranthus","ירבוז לבן, מופשל","Amaranthaceae","Annual","male_summer",0.082141
+"Anabasis","יפרוק תלת כנפי, זיפני, המדבר","Chenopodiaceae","Chamaephyte","male_spring",0.00507
+"Anabasis","יפרוק תלת כנפי, זיפני, המדבר","Chenopodiaceae","Chamaephyte","female_spring",0.053128
+"Anabasis","יפרוק תלת כנפי, זיפני, המדבר","Chenopodiaceae","Chamaephyte","female_summer",0.003278
+"Anabasis","יפרוק תלת כנפי, זיפני, המדבר","Chenopodiaceae","Chamaephyte","male_summer",0.008613
+"Anchusa","לשון פר סמורה, מצרית, מדברית","Boraginaceae","Annual","male_spring",0.0602
+"Anchusa","לשון פר סמורה, מצרית, מדברית","Boraginaceae","Annual","female_spring",0.009309
+"Anchusa","לשון פר סמורה, מצרית, מדברית","Boraginaceae","Annual","female_summer",0.001204
+"Anchusa","לשון פר סמורה, מצרית, מדברית","Boraginaceae","Annual","male_summer",0.007975
+"Arabis","ארביס אביבי, אוזני","Brassicaceae","Annual","male_spring",0.015027
+"Arabis","ארביס אביבי, אוזני","Brassicaceae","Annual","female_spring",0
+"Arabis","ארביס אביבי, אוזני","Brassicaceae","Annual","female_summer",0
+"Arabis","ארביס אביבי, אוזני","Brassicaceae","Annual","male_summer",0
+"Arnebia","ארנבית הצבעית, צרת עלים, שרועה","Boraginaceae","Annual","male_spring",0.027885
+"Arnebia","ארנבית הצבעית, צרת עלים, שרועה","Boraginaceae","Annual","female_spring",0.001246
+"Arnebia","ארנבית הצבעית, צרת עלים, שרועה","Boraginaceae","Annual","female_summer",0
+"Arnebia","ארנבית הצבעית, צרת עלים, שרועה","Boraginaceae","Annual","male_summer",0
+"Asparagus","אספרג ארוך עלים","Liliaceae","Geophyte","male_spring",0.000453
+"Asparagus","אספרג ארוך עלים","Liliaceae","Geophyte","female_spring",0
+"Asparagus","אספרג ארוך עלים","Liliaceae","Geophyte","female_summer",0
+"Asparagus","אספרג ארוך עלים","Liliaceae","Geophyte","male_summer",0
+"Asperugo","חספסת שרועה","Boraginaceae","Annual","male_spring",0.197207
+"Asperugo","חספסת שרועה","Boraginaceae","Annual","female_spring",0.050256
+"Asperugo","חספסת שרועה","Boraginaceae","Annual","female_summer",0
+"Asperugo","חספסת שרועה","Boraginaceae","Annual","male_summer",0
+"Asphodelus","עירית גדולה, דביקה, צרת-עלים","Liliaceae","Annual","male_spring",0
+"Asphodelus","עירית גדולה, דביקה, צרת-עלים","Liliaceae","Annual","female_spring",0
+"Asphodelus","עירית גדולה, דביקה, צרת-עלים","Liliaceae","Annual","female_summer",0
+"Asphodelus","עירית גדולה, דביקה, צרת-עלים","Liliaceae","Annual","male_summer",0.192347
+"Astragalus","קדד אפיל, באר שבע, בית הלחמי, האנקולים, האצבעות, הטבעות, הנגב, יפה, מדברי, מצליב, מקומט, משוחלף, משייני, קדוש, קהירי, קוטבי, שעיר","Papilionaceae","Annual","male_spring",0.071042
+"Astragalus","קדד אפיל, באר שבע, בית הלחמי, האנקולים, האצבעות, הטבעות, הנגב, יפה, מדברי, מצליב, מקומט, משוחלף, משייני, קדוש, קהירי, קוטבי, שעיר","Papilionaceae","Annual","female_spring",0.042427
+"Astragalus","קדד אפיל, באר שבע, בית הלחמי, האנקולים, האצבעות, הטבעות, הנגב, יפה, מדברי, מצליב, מקומט, משוחלף, משייני, קדוש, קהירי, קוטבי, שעיר","Papilionaceae","Annual","female_summer",0.074317
+"Astragalus","קדד אפיל, באר שבע, בית הלחמי, האנקולים, האצבעות, הטבעות, הנגב, יפה, מדברי, מצליב, מקומט, משוחלף, משייני, קדוש, קהירי, קוטבי, שעיר","Papilionaceae","Annual","male_summer",0.053933
+"Atriplex","מלוח מילר, מלבין, קיפח, ספוגי, קטן-עלים, קטן-פרי , שנוי-פירות","Chenopodiaceae","Annual","male_spring",0.064846
+"Atriplex","מלוח מילר, מלבין, קיפח, ספוגי, קטן-עלים, קטן-פרי , שנוי-פירות","Chenopodiaceae","Annual","female_spring",0.14103
+"Atriplex","מלוח מילר, מלבין, קיפח, ספוגי, קטן-עלים, קטן-פרי , שנוי-פירות","Chenopodiaceae","Annual","female_summer",0.000707
+"Atriplex","מלוח מילר, מלבין, קיפח, ספוגי, קטן-עלים, קטן-פרי , שנוי-פירות","Chenopodiaceae","Annual","male_summer",0.147825
+"Avena","שיבולת-שועל מתפרקת, נפוצה, ערבתית","Poaceae","Annual","male_spring",0.094221
+"Avena","שיבולת-שועל מתפרקת, נפוצה, ערבתית","Poaceae","Annual","female_spring",0.175859
+"Avena","שיבולת-שועל מתפרקת, נפוצה, ערבתית","Poaceae","Annual","female_summer",0.102232
+"Avena","שיבולת-שועל מתפרקת, נפוצה, ערבתית","Poaceae","Annual","male_summer",0.028317
+"Bellevalia","זמזומית איג, המדבר, זהרי","Asparagaceae","Geophyte","male_spring",0.037305
+"Bellevalia","זמזומית איג, המדבר, זהרי","Asparagaceae","Geophyte","female_spring",0.089119
+"Bellevalia","זמזומית איג, המדבר, זהרי","Asparagaceae","Geophyte","female_summer",0
+"Bellevalia","זמזומית איג, המדבר, זהרי","Asparagaceae","Geophyte","male_summer",0.19215
+"Biscutella","מצילתיים מצויות","Brassicaceae","Annual","male_spring",0.066439
+"Biscutella","מצילתיים מצויות","Brassicaceae","Annual","female_spring",0.082935
+"Biscutella","מצילתיים מצויות","Brassicaceae","Annual","female_summer",0.126643
+"Biscutella","מצילתיים מצויות","Brassicaceae","Annual","male_summer",0.025436
+"Bougainvillea","0","0","Unknown","male_spring",0.094062
+"Bougainvillea","0","0","Unknown","female_spring",0
+"Bougainvillea","0","0","Unknown","female_summer",0
+"Bougainvillea","0","0","Unknown","male_summer",0
+"Brachypodium","עוקצר מצוי","Poaceae","Annual","male_spring",0.089368
+"Brachypodium","עוקצר מצוי","Poaceae","Annual","female_spring",0.175823
+"Brachypodium","עוקצר מצוי","Poaceae","Annual","female_summer",0.070126
+"Brachypodium","עוקצר מצוי","Poaceae","Annual","male_summer",0.08251
+"Brassica","כרוב החוף","0","Annual","male_spring",0
+"Brassica","כרוב החוף","0","Annual","female_spring",0
+"Brassica","כרוב החוף","0","Annual","female_summer",0
+"Brassica","כרוב החוף","0","Annual","male_summer",0.007169
+"Bromus","ברומית אדמונית, אזמלנית, המטאטא, זנב-שועל, מאוגדת, ספרדית, רבת-מלענים","Poaceae","Annual","male_spring",0.006761
+"Bromus","ברומית אדמונית, אזמלנית, המטאטא, זנב-שועל, מאוגדת, ספרדית, רבת-מלענים","Poaceae","Annual","female_spring",0.035994
+"Bromus","ברומית אדמונית, אזמלנית, המטאטא, זנב-שועל, מאוגדת, ספרדית, רבת-מלענים","Poaceae","Annual","female_summer",0.004461
+"Bromus","ברומית אדמונית, אזמלנית, המטאטא, זנב-שועל, מאוגדת, ספרדית, רבת-מלענים","Poaceae","Annual","male_summer",0.000203
+"Calendula","ציפורני-חתול מצויות, מכונפות","Asteraceae","Annual","male_spring",0.011248
+"Calendula","ציפורני-חתול מצויות, מכונפות","Asteraceae","Annual","female_spring",0.043222
+"Calendula","ציפורני-חתול מצויות, מכונפות","Asteraceae","Annual","female_summer",0.182102
+"Calendula","ציפורני-חתול מצויות, מכונפות","Asteraceae","Annual","male_summer",0.102883
+"Capsicum","0","0","Unknown","male_spring",0.004264
+"Capsicum","0","0","Unknown","female_spring",0.029797
+"Capsicum","0","0","Unknown","female_summer",0.150073
+"Capsicum","0","0","Unknown","male_summer",0
+"Carex","כריך הערבות","Cyperaceae","Geophyte","male_spring",0.013231
+"Carex","כריך הערבות","Cyperaceae","Geophyte","female_spring",0
+"Carex","כריך הערבות","Cyperaceae","Geophyte","female_summer",0
+"Carex","כריך הערבות","Cyperaceae","Geophyte","male_summer",0.073281
+"Cenchrus","0","Poaceae","Unknown","male_spring",0
+"Cenchrus","0","Poaceae","Unknown","female_spring",0.025155
+"Cenchrus","0","Poaceae","Unknown","female_summer",0
+"Cenchrus","0","Poaceae","Unknown","male_summer",0.213865
+"Chiliadenus","כתלה חריפה","Asteraceae","Chamaephyte","male_spring",0.054826
+"Chiliadenus","כתלה חריפה","Asteraceae","Chamaephyte","female_spring",0.043646
+"Chiliadenus","כתלה חריפה","Asteraceae","Chamaephyte","female_summer",0.033243
+"Chiliadenus","כתלה חריפה","Asteraceae","Chamaephyte","male_summer",0.01895
+"Cistanche","יחנוק צמיר, המדבר, סגול","Orobanchaceae","Hemicryptophyte","male_spring",0
+"Cistanche","יחנוק צמיר, המדבר, סגול","Orobanchaceae","Hemicryptophyte","female_spring",0
+"Cistanche","יחנוק צמיר, המדבר, סגול","Orobanchaceae","Hemicryptophyte","female_summer",0
+"Cistanche","יחנוק צמיר, המדבר, סגול","Orobanchaceae","Hemicryptophyte","male_summer",0.028182
+"Colchicum","סתוונית הנגב, הקליפות, טוביה","Colchicaceae","Geophyte","male_spring",0.110127
+"Colchicum","סתוונית הנגב, הקליפות, טוביה","Colchicaceae","Geophyte","female_spring",0
+"Colchicum","סתוונית הנגב, הקליפות, טוביה","Colchicaceae","Geophyte","female_summer",0
+"Colchicum","סתוונית הנגב, הקליפות, טוביה","Colchicaceae","Geophyte","male_summer",0
+"Convolvulus","חבלבל זיתני, משובל, כפני, המשי","Convolvulaceae","Chamaephyte","male_spring",0.070932
+"Convolvulus","חבלבל זיתני, משובל, כפני, המשי","Convolvulaceae","Chamaephyte","female_spring",0.001796
+"Convolvulus","חבלבל זיתני, משובל, כפני, המשי","Convolvulaceae","Chamaephyte","female_summer",0
+"Convolvulus","חבלבל זיתני, משובל, כפני, המשי","Convolvulaceae","Chamaephyte","male_summer",0.107176
+"Cucumis","0","Cucurbitaceae","Unknown","male_spring",0.005623
+"Cucumis","0","Cucurbitaceae","Unknown","female_spring",0
+"Cucumis","0","Cucurbitaceae","Unknown","female_summer",0
+"Cucumis","0","Cucurbitaceae","Unknown","male_summer",0.005869
+"Cupressus","0","Cupressaceae","Unknown","male_spring",0.133484
+"Cupressus","0","Cupressaceae","Unknown","female_spring",0.092385
+"Cupressus","0","Cupressaceae","Unknown","female_summer",0
+"Cupressus","0","Cupressaceae","Unknown","male_summer",0
+"Cuscuta","0","Convolvulaceae","Unknown","male_spring",0.019346
+"Cuscuta","0","Convolvulaceae","Unknown","female_spring",0.153187
+"Cuscuta","0","Convolvulaceae","Unknown","female_summer",0.272714
+"Cuscuta","0","Convolvulaceae","Unknown","male_summer",0.079604
+"Cynodon","יבלית מצויה","Poaceae","Geophyte","male_spring",0.029287
+"Cynodon","יבלית מצויה","Poaceae","Geophyte","female_spring",0
+"Cynodon","יבלית מצויה","Poaceae","Geophyte","female_summer",0.048615
+"Cynodon","יבלית מצויה","Poaceae","Geophyte","male_summer",0.109762
+"Dianthus","ציפורן נקוד","Caryophyllaceae","Hemicryptophyte","male_spring",0.097771
+"Dianthus","ציפורן נקוד","Caryophyllaceae","Hemicryptophyte","female_spring",0.210164
+"Dianthus","ציפורן נקוד","Caryophyllaceae","Hemicryptophyte","female_summer",0.039623
+"Dianthus","ציפורן נקוד","Caryophyllaceae","Hemicryptophyte","male_summer",0.013545
+"Diplotaxis","טוריים מדבריים, זיפניים","Brassicaceae","Annual","male_spring",0.020555
+"Diplotaxis","טוריים מדבריים, זיפניים","Brassicaceae","Annual","female_spring",0.135495
+"Diplotaxis","טוריים מדבריים, זיפניים","Brassicaceae","Annual","female_summer",0.014162
+"Diplotaxis","טוריים מדבריים, זיפניים","Brassicaceae","Annual","male_summer",0.036569
+"Echinops","קיפודן בלאנש","Asteraceae","Hemicryptophyte","male_spring",0.01819
+"Echinops","קיפודן בלאנש","Asteraceae","Hemicryptophyte","female_spring",0.009418
+"Echinops","קיפודן בלאנש","Asteraceae","Hemicryptophyte","female_summer",0.093796
+"Echinops","קיפודן בלאנש","Asteraceae","Hemicryptophyte","male_summer",0.004474
+"Ephedra","שרביטן ריסני","Ephedraceae","Phanerophyte","male_spring",0.06727
+"Ephedra","שרביטן ריסני","Ephedraceae","Phanerophyte","female_spring",0
+"Ephedra","שרביטן ריסני","Ephedraceae","Phanerophyte","female_summer",0
+"Ephedra","שרביטן ריסני","Ephedraceae","Phanerophyte","male_summer",0.181524
+"Erodium","מקור-חסידה ארוך, גזור, מדברי, מלבין, מעוצה, מפוצלת, מצוי, מצרי, קירח, שעיר","Geraniaceae","Hemicryptophyte","male_spring",0.471991
+"Erodium","מקור-חסידה ארוך, גזור, מדברי, מלבין, מעוצה, מפוצלת, מצוי, מצרי, קירח, שעיר","Geraniaceae","Hemicryptophyte","female_spring",0.288033
+"Erodium","מקור-חסידה ארוך, גזור, מדברי, מלבין, מעוצה, מפוצלת, מצוי, מצרי, קירח, שעיר","Geraniaceae","Hemicryptophyte","female_summer",0.028749
+"Erodium","מקור-חסידה ארוך, גזור, מדברי, מלבין, מעוצה, מפוצלת, מצוי, מצרי, קירח, שעיר","Geraniaceae","Hemicryptophyte","male_summer",0.043282
+"Eryngium","חרחבינה מכחילה","Apiaceae","Hemicryptophyte","male_spring",0.040998
+"Eryngium","חרחבינה מכחילה","Apiaceae","Hemicryptophyte","female_spring",0.078571
+"Eryngium","חרחבינה מכחילה","Apiaceae","Hemicryptophyte","female_summer",0.087073
+"Eryngium","חרחבינה מכחילה","Apiaceae","Hemicryptophyte","male_summer",0.024962
+"Euphorbia","חלבלוב רמון, פעוט","Euphorbiaceae","Annual","male_spring",0.072648
+"Euphorbia","חלבלוב רמון, פעוט","Euphorbiaceae","Annual","female_spring",0
+"Euphorbia","חלבלוב רמון, פעוט","Euphorbiaceae","Annual","female_summer",0
+"Euphorbia","חלבלוב רמון, פעוט","Euphorbiaceae","Annual","male_summer",0.026536
+"Fagonia","פגוניה דביקה, ערבית, קטנת-פרחים, רכה, סיני","Zygophyllaceae","Chamaephyte","male_spring",0.009391
+"Fagonia","פגוניה דביקה, ערבית, קטנת-פרחים, רכה, סיני","Zygophyllaceae","Chamaephyte","female_spring",0
+"Fagonia","פגוניה דביקה, ערבית, קטנת-פרחים, רכה, סיני","Zygophyllaceae","Chamaephyte","female_summer",0.013504
+"Fagonia","פגוניה דביקה, ערבית, קטנת-פרחים, רכה, סיני","Zygophyllaceae","Chamaephyte","male_summer",0.064346
+"Fumana","לוטמית דביקה","Cistaceae","Chamaephyte","male_spring",0.042718
+"Fumana","לוטמית דביקה","Cistaceae","Chamaephyte","female_spring",0.031146
+"Fumana","לוטמית דביקה","Cistaceae","Chamaephyte","female_summer",0.116552
+"Fumana","לוטמית דביקה","Cistaceae","Chamaephyte","male_summer",0.052807
+"Fumaria","0","Papaveraceae","Unknown","male_spring",0
+"Fumaria","0","Papaveraceae","Unknown","female_spring",0.049369
+"Fumaria","0","Papaveraceae","Unknown","female_summer",0
+"Fumaria","0","Papaveraceae","Unknown","male_summer",0
+"Geranium","גרניון רך, הפקעות, הארגמן, עגול","Geraniaceae","Annual","male_spring",0
+"Geranium","גרניון רך, הפקעות, הארגמן, עגול","Geraniaceae","Annual","female_spring",0.059438
+"Geranium","גרניון רך, הפקעות, הארגמן, עגול","Geraniaceae","Annual","female_summer",0
+"Geranium","גרניון רך, הפקעות, הארגמן, עגול","Geraniaceae","Annual","male_summer",0
+"Gymnocarpos","ערטל מדברי","Caryophyllaceae","Chamaephyte","male_spring",0.010866
+"Gymnocarpos","ערטל מדברי","Caryophyllaceae","Chamaephyte","female_spring",0.048663
+"Gymnocarpos","ערטל מדברי","Caryophyllaceae","Chamaephyte","female_summer",0.060365
+"Gymnocarpos","ערטל מדברי","Caryophyllaceae","Chamaephyte","male_summer",0.30832
+"Gypsophila","גבסנית דביקה, ערבית","Caryophyllaceae","Chamaephyte","male_spring",0.021463
+"Gypsophila","גבסנית דביקה, ערבית","Caryophyllaceae","Chamaephyte","female_spring",0.003798
+"Gypsophila","גבסנית דביקה, ערבית","Caryophyllaceae","Chamaephyte","female_summer",0
+"Gypsophila","גבסנית דביקה, ערבית","Caryophyllaceae","Chamaephyte","male_summer",0
+"Hammada",NA,NA,"Unknown","male_spring",0.128538
+"Hammada",NA,NA,"Unknown","female_spring",0
+"Hammada",NA,NA,"Unknown","female_summer",0.215547
+"Hammada",NA,NA,"Unknown","male_summer",0.022318
+"Haplophyllum","פיגמית הסלע, מגובששת","Rutaceae","Chamaephyte","male_spring",0.031796
+"Haplophyllum","פיגמית הסלע, מגובששת","Rutaceae","Chamaephyte","female_spring",0
+"Haplophyllum","פיגמית הסלע, מגובששת","Rutaceae","Chamaephyte","female_summer",0
+"Haplophyllum","פיגמית הסלע, מגובששת","Rutaceae","Chamaephyte","male_summer",0.016808
+"Helianthemum","שמשון הדור, הנגב, ליפי, מצוי, מצרי, קהירי, ריסני, סגלגל","Cistaceae","Annual","male_spring",0.020396
+"Helianthemum","שמשון הדור, הנגב, ליפי, מצוי, מצרי, קהירי, ריסני, סגלגל","Cistaceae","Annual","female_spring",0.006784
+"Helianthemum","שמשון הדור, הנגב, ליפי, מצוי, מצרי, קהירי, ריסני, סגלגל","Cistaceae","Annual","female_summer",0.048325
+"Helianthemum","שמשון הדור, הנגב, ליפי, מצוי, מצרי, קהירי, ריסני, סגלגל","Cistaceae","Annual","male_summer",0.011385
+"Heliotropium","עוקץ-עקרב אירופי, גלוני, מדברי, עגול-עלים, צהוב","Boraginaceae","Annual","male_spring",0.276265
+"Heliotropium","עוקץ-עקרב אירופי, גלוני, מדברי, עגול-עלים, צהוב","Boraginaceae","Annual","female_spring",0
+"Heliotropium","עוקץ-עקרב אירופי, גלוני, מדברי, עגול-עלים, צהוב","Boraginaceae","Annual","female_summer",0
+"Heliotropium","עוקץ-עקרב אירופי, גלוני, מדברי, עגול-עלים, צהוב","Boraginaceae","Annual","male_summer",0
+"Hibiscus","0","Malvaceae","Unknown","male_spring",0.154906
+"Hibiscus","0","Malvaceae","Unknown","female_spring",0
+"Hibiscus","0","Malvaceae","Unknown","female_summer",0.023458
+"Hibiscus","0","Malvaceae","Unknown","male_summer",0.104893
+"Hippocrepis","פרסת-סוס דלת-תרמילים","Fabaceae","Annual","male_spring",0.001049
+"Hippocrepis","פרסת-סוס דלת-תרמילים","Fabaceae","Annual","female_spring",0.061318
+"Hippocrepis","פרסת-סוס דלת-תרמילים","Fabaceae","Annual","female_summer",0.23641
+"Hippocrepis","פרסת-סוס דלת-תרמילים","Fabaceae","Annual","male_summer",0.028016
+"Hordeum","שעורת התבור, העכבר","Poaceae","Annual","male_spring",0.222843
+"Hordeum","שעורת התבור, העכבר","Poaceae","Annual","female_spring",0.006842
+"Hordeum","שעורת התבור, העכבר","Poaceae","Annual","female_summer",0.009835
+"Hordeum","שעורת התבור, העכבר","Poaceae","Annual","male_summer",0.019638
+"Ipomoea","0","Convolvulaceae","Unknown","male_spring",0.028939
+"Ipomoea","0","Convolvulaceae","Unknown","female_spring",0
+"Ipomoea","0","Convolvulaceae","Unknown","female_summer",0
+"Ipomoea","0","Convolvulaceae","Unknown","male_summer",0.003992
+"Lactuca","חסת המצפן, מזרחית","Asteraceae","Annual","male_spring",0
+"Lactuca","חסת המצפן, מזרחית","Asteraceae","Annual","female_spring",0
+"Lactuca","חסת המצפן, מזרחית","Asteraceae","Annual","female_summer",0
+"Lactuca","חסת המצפן, מזרחית","Asteraceae","Annual","male_summer",0.049825
+"Leontice","ערטנית השדות","Berberidaceae","Geophyte","male_spring",0.016528
+"Leontice","ערטנית השדות","Berberidaceae","Geophyte","female_spring",0
+"Leontice","ערטנית השדות","Berberidaceae","Geophyte","female_summer",0
+"Leontice","ערטנית השדות","Berberidaceae","Geophyte","male_summer",0
+"Leontodon",NA,NA,"Unknown","male_spring",0.010823
+"Leontodon",NA,NA,"Unknown","female_spring",0.246673
+"Leontodon",NA,NA,"Unknown","female_summer",0
+"Leontodon",NA,NA,"Unknown","male_summer",0
+"Lepidium","0","Brassicaceae","Unknown","male_spring",0.054292
+"Lepidium","0","Brassicaceae","Unknown","female_spring",0
+"Lepidium","0","Brassicaceae","Unknown","female_summer",0
+"Lepidium","0","Brassicaceae","Unknown","male_summer",0.041309
+"Leptaleum","בינית המדבר","Brassicaceae","Annual","male_spring",0.060399
+"Leptaleum","בינית המדבר","Brassicaceae","Annual","female_spring",0.031707
+"Leptaleum","בינית המדבר","Brassicaceae","Annual","female_summer",0.058746
+"Leptaleum","בינית המדבר","Brassicaceae","Annual","male_summer",0.082162
+"Limonium","עדעד המדבר, מאובק","Plumbaginaceae","Annual","male_spring",0.033334
+"Limonium","עדעד המדבר, מאובק","Plumbaginaceae","Annual","female_spring",0.051268
+"Limonium","עדעד המדבר, מאובק","Plumbaginaceae","Annual","female_summer",0.125831
+"Limonium","עדעד המדבר, מאובק","Plumbaginaceae","Annual","male_summer",0.128292
+"Malva","חלמית גדולה, קטנת-פרחים, מצרית","Malvaceae","Annual","male_spring",0.00085
+"Malva","חלמית גדולה, קטנת-פרחים, מצרית","Malvaceae","Annual","female_spring",0.063288
+"Malva","חלמית גדולה, קטנת-פרחים, מצרית","Malvaceae","Annual","female_summer",0.099392
+"Malva","חלמית גדולה, קטנת-פרחים, מצרית","Malvaceae","Annual","male_summer",0.018659
+"Matthiola","מנתור המדבר","Brassicaceae","Annual","male_spring",0.102591
+"Matthiola","מנתור המדבר","Brassicaceae","Annual","female_spring",0.029951
+"Matthiola","מנתור המדבר","Brassicaceae","Annual","female_summer",0.059017
+"Matthiola","מנתור המדבר","Brassicaceae","Annual","male_summer",0.042421
+"Medicago","אספסת גלגלית, החבית, הכתרים, מפוצלת, מצויה, מצויצת, עדשתית, קטועה, גרגרנית חד-פרחית, מאוצבעת, מצויה","Papilionaceae","Annual","male_spring",0.040361
+"Medicago","אספסת גלגלית, החבית, הכתרים, מפוצלת, מצויה, מצויצת, עדשתית, קטועה, גרגרנית חד-פרחית, מאוצבעת, מצויה","Papilionaceae","Annual","female_spring",0.046784
+"Medicago","אספסת גלגלית, החבית, הכתרים, מפוצלת, מצויה, מצויצת, עדשתית, קטועה, גרגרנית חד-פרחית, מאוצבעת, מצויה","Papilionaceae","Annual","female_summer",0.066815
+"Medicago","אספסת גלגלית, החבית, הכתרים, מפוצלת, מצויה, מצויצת, עדשתית, קטועה, גרגרנית חד-פרחית, מאוצבעת, מצויה","Papilionaceae","Annual","male_summer",0.030977
+"Melilotus","דבשה הודית","Fabaceae","Annual","male_spring",0
+"Melilotus","דבשה הודית","Fabaceae","Annual","female_spring",0
+"Melilotus","דבשה הודית","Fabaceae","Annual","female_summer",0
+"Melilotus","דבשה הודית","Fabaceae","Annual","male_summer",0.116357
+"Melissa","0","Lamiaceae","Unknown","male_spring",0.103661
+"Melissa","0","Lamiaceae","Unknown","female_spring",0
+"Melissa","0","Lamiaceae","Unknown","female_summer",0
+"Melissa","0","Lamiaceae","Unknown","male_summer",0
+"Mertensia","0","0","Unknown","male_spring",0.002435
+"Mertensia","0","0","Unknown","female_spring",0.046449
+"Mertensia","0","0","Unknown","female_summer",0
+"Mertensia","0","0","Unknown","male_summer",0.007524
+"Momordica","0","Cucurbitaceae","Unknown","male_spring",0
+"Momordica","0","Cucurbitaceae","Unknown","female_spring",0
+"Momordica","0","Cucurbitaceae","Unknown","female_summer",0.013898
+"Momordica","0","Cucurbitaceae","Unknown","male_summer",0.037893
+"Moraea","צהרון מצוי, קטן","Iridaceae","Geophyte","male_spring",0.07461
+"Moraea","צהרון מצוי, קטן","Iridaceae","Geophyte","female_spring",0
+"Moraea","צהרון מצוי, קטן","Iridaceae","Geophyte","female_summer",0
+"Moraea","צהרון מצוי, קטן","Iridaceae","Geophyte","male_summer",0
+"Morettia","מורטיה מלבינה","Brassicaceae","Chamaephyte","male_spring",0
+"Morettia","מורטיה מלבינה","Brassicaceae","Chamaephyte","female_spring",0
+"Morettia","מורטיה מלבינה","Brassicaceae","Chamaephyte","female_summer",0.016251
+"Morettia","מורטיה מלבינה","Brassicaceae","Chamaephyte","male_summer",0
+"Moricandia","מוריקה מבריקה","Brassicaceae","Chamaephyte","male_spring",0
+"Moricandia","מוריקה מבריקה","Brassicaceae","Chamaephyte","female_spring",0
+"Moricandia","מוריקה מבריקה","Brassicaceae","Chamaephyte","female_summer",0
+"Moricandia","מוריקה מבריקה","Brassicaceae","Chamaephyte","male_summer",0.104831
+"Neotorularia","שנס המדבר","Brassicaceae","Annual","male_spring",0.041182
+"Neotorularia","שנס המדבר","Brassicaceae","Annual","female_spring",0.020422
+"Neotorularia","שנס המדבר","Brassicaceae","Annual","female_summer",0.156249
+"Neotorularia","שנס המדבר","Brassicaceae","Annual","male_summer",0.100969
+"Noaea","נואית קוצנית","Chenopodiaceae","Phanerophyte","male_spring",0.129058
+"Noaea","נואית קוצנית","Chenopodiaceae","Phanerophyte","female_spring",0.001337
+"Noaea","נואית קוצנית","Chenopodiaceae","Phanerophyte","female_summer",0.096615
+"Noaea","נואית קוצנית","Chenopodiaceae","Phanerophyte","male_summer",0.062498
+"Papaver","פרג אגסי, זיפני","Papaveraceae","Annual","male_spring",0.048601
+"Papaver","פרג אגסי, זיפני","Papaveraceae","Annual","female_spring",0
+"Papaver","פרג אגסי, זיפני","Papaveraceae","Annual","female_summer",0
+"Papaver","פרג אגסי, זיפני","Papaveraceae","Annual","male_summer",0
+"Paronychia","אלמוות הכסף, הקרקפות, סיני, ערבי","Caryophyllaceae","Hemicryptophyte","male_spring",0.002358
+"Paronychia","אלמוות הכסף, הקרקפות, סיני, ערבי","Caryophyllaceae","Hemicryptophyte","female_spring",0.054547
+"Paronychia","אלמוות הכסף, הקרקפות, סיני, ערבי","Caryophyllaceae","Hemicryptophyte","female_summer",0
+"Paronychia","אלמוות הכסף, הקרקפות, סיני, ערבי","Caryophyllaceae","Hemicryptophyte","male_summer",0
+"Peucedanum","אחישבת ענף","Apiaceae","Hemicryptophyte","male_spring",0.019812
+"Peucedanum","אחישבת ענף","Apiaceae","Hemicryptophyte","female_spring",0
+"Peucedanum","אחישבת ענף","Apiaceae","Hemicryptophyte","female_summer",0.113924
+"Peucedanum","אחישבת ענף","Apiaceae","Hemicryptophyte","male_summer",0.008957
+"Phalaris","חפורית מוזרה, מצויה, קטנה","Poaceae","Annual","male_spring",0.109365
+"Phalaris","חפורית מוזרה, מצויה, קטנה","Poaceae","Annual","female_spring",0.00258
+"Phalaris","חפורית מוזרה, מצויה, קטנה","Poaceae","Annual","female_summer",0.007447
+"Phalaris","חפורית מוזרה, מצויה, קטנה","Poaceae","Annual","male_summer",0.062004
+"Pinus","0","Pinaceae","Unknown","male_spring",0.133773
+"Pinus","0","Pinaceae","Unknown","female_spring",0.497374
+"Pinus","0","Pinaceae","Unknown","female_summer",0
+"Pinus","0","Pinaceae","Unknown","male_summer",0.178787
+"Piptatherum","נשרן הדוחן","Poaceae","Hemicryptophyte","male_spring",0.006983
+"Piptatherum","נשרן הדוחן","Poaceae","Hemicryptophyte","female_spring",0
+"Piptatherum","נשרן הדוחן","Poaceae","Hemicryptophyte","female_summer",0
+"Piptatherum","נשרן הדוחן","Poaceae","Hemicryptophyte","male_summer",0
+"Plantago","לחך בלוטי, החולות, חום-לוע, לופת, מלבין, משונן, סגלגל, ריסני, שסוע","Plantaginaceae","Annual","male_spring",0.056121
+"Plantago","לחך בלוטי, החולות, חום-לוע, לופת, מלבין, משונן, סגלגל, ריסני, שסוע","Plantaginaceae","Annual","female_spring",0.200599
+"Plantago","לחך בלוטי, החולות, חום-לוע, לופת, מלבין, משונן, סגלגל, ריסני, שסוע","Plantaginaceae","Annual","female_summer",0.030255
+"Plantago","לחך בלוטי, החולות, חום-לוע, לופת, מלבין, משונן, סגלגל, ריסני, שסוע","Plantaginaceae","Annual","male_summer",0.029726
+"Polygonum","ארכובית שבטבטית","Polygonaceae","Hemicryptophyte","male_spring",0.065676
+"Polygonum","ארכובית שבטבטית","Polygonaceae","Hemicryptophyte","female_spring",0.014131
+"Polygonum","ארכובית שבטבטית","Polygonaceae","Hemicryptophyte","female_summer",0.023158
+"Polygonum","ארכובית שבטבטית","Polygonaceae","Hemicryptophyte","male_summer",0.032944
+"Prosopis","ינבוט השדה, מסקיטו","Mimosaceae","Chamaephyte","male_spring",0
+"Prosopis","ינבוט השדה, מסקיטו","Mimosaceae","Chamaephyte","female_spring",0.013521
+"Prosopis","ינבוט השדה, מסקיטו","Mimosaceae","Chamaephyte","female_summer",0.048911
+"Prosopis","ינבוט השדה, מסקיטו","Mimosaceae","Chamaephyte","male_summer",0.02639
+"Prunus","0","Rosaceae","Unknown","male_spring",0.012102
+"Prunus","0","Rosaceae","Unknown","female_spring",0.095069
+"Prunus","0","Rosaceae","Unknown","female_summer",0.003408
+"Prunus","0","Rosaceae","Unknown","male_summer",0.012595
+"Raphanus","0","Brassicaceae","Unknown","male_spring",0
+"Raphanus","0","Brassicaceae","Unknown","female_spring",0
+"Raphanus","0","Brassicaceae","Unknown","female_summer",0.000771
+"Raphanus","0","Brassicaceae","Unknown","male_summer",0
+"Reaumuria","אשליל הנגב","Tamaricaceae","Chamaephyte","male_spring",0.042122
+"Reaumuria","אשליל הנגב","Tamaricaceae","Chamaephyte","female_spring",0.001907
+"Reaumuria","אשליל הנגב","Tamaricaceae","Chamaephyte","female_summer",0.105407
+"Reaumuria","אשליל הנגב","Tamaricaceae","Chamaephyte","male_summer",0.221614
+"Reichardia","תמריר מרוקני","Asteraceae","Annual","male_spring",0.097321
+"Reichardia","תמריר מרוקני","Asteraceae","Annual","female_spring",0.076798
+"Reichardia","תמריר מרוקני","Asteraceae","Annual","female_summer",0.038494
+"Reichardia","תמריר מרוקני","Asteraceae","Annual","male_summer",0.210153
+"Rhamnus","אשחר דו-זרעי","Rhamnaceae","Phanerophyte","male_spring",0.132869
+"Rhamnus","אשחר דו-זרעי","Rhamnaceae","Phanerophyte","female_spring",0.04679
+"Rhamnus","אשחר דו-זרעי","Rhamnaceae","Phanerophyte","female_summer",0.034977
+"Rhamnus","אשחר דו-זרעי","Rhamnaceae","Phanerophyte","male_summer",0.006314
+"Rheum","ריבס המדבר","Polygonaceae","Hemicryptophyte","male_spring",0.04113
+"Rheum","ריבס המדבר","Polygonaceae","Hemicryptophyte","female_spring",0
+"Rheum","ריבס המדבר","Polygonaceae","Hemicryptophyte","female_summer",0
+"Rheum","ריבס המדבר","Polygonaceae","Hemicryptophyte","male_summer",0
+"Rhodiola","0","0","Unknown","male_spring",0.098974
+"Rhodiola","0","0","Unknown","female_spring",0
+"Rhodiola","0","0","Unknown","female_summer",0
+"Rhodiola","0","0","Unknown","male_summer",0
+"Rumex","חומעה ורודה, מגוידת","Polygonaceae","Annual","male_spring",0.002611
+"Rumex","חומעה ורודה, מגוידת","Polygonaceae","Annual","female_spring",0.220409
+"Rumex","חומעה ורודה, מגוידת","Polygonaceae","Annual","female_summer",0.085323
+"Rumex","חומעה ורודה, מגוידת","Polygonaceae","Annual","male_summer",0.047963
+"Salix","0","Salicaceae","Unknown","male_spring",0
+"Salix","0","Salicaceae","Unknown","female_spring",0.01093
+"Salix","0","Salicaceae","Unknown","female_summer",0.141521
+"Salix","0","Salicaceae","Unknown","male_summer",0.010098
+"Salsola","מלחית אשונה, אשלגנית, הישימון, הערבה, חומה, מבאישה, מזרחית, מסורגת, נגדית, עדינה","Chenopodiaceae","Annual","male_spring",0.164231
+"Salsola","מלחית אשונה, אשלגנית, הישימון, הערבה, חומה, מבאישה, מזרחית, מסורגת, נגדית, עדינה","Chenopodiaceae","Annual","female_spring",0
+"Salsola","מלחית אשונה, אשלגנית, הישימון, הערבה, חומה, מבאישה, מזרחית, מסורגת, נגדית, עדינה","Chenopodiaceae","Annual","female_summer",0.057059
+"Salsola","מלחית אשונה, אשלגנית, הישימון, הערבה, חומה, מבאישה, מזרחית, מסורגת, נגדית, עדינה","Chenopodiaceae","Annual","male_summer",0.165115
+"Salvia","מרווה ארץ-ישראלית, מצויה, מצרית, צמירה, קוצנית, ריחנית","Lamiaceae","Chamaephyte","male_spring",0.071069
+"Salvia","מרווה ארץ-ישראלית, מצויה, מצרית, צמירה, קוצנית, ריחנית","Lamiaceae","Chamaephyte","female_spring",0.062161
+"Salvia","מרווה ארץ-ישראלית, מצויה, מצרית, צמירה, קוצנית, ריחנית","Lamiaceae","Chamaephyte","female_summer",0
+"Salvia","מרווה ארץ-ישראלית, מצויה, מצרית, צמירה, קוצנית, ריחנית","Lamiaceae","Chamaephyte","male_summer",0.134553
+"Scabiosa","תגית ארגמנית","Dipsaceae","Annual","male_spring",0.089765
+"Scabiosa","תגית ארגמנית","Dipsaceae","Annual","female_spring",0.070976
+"Scabiosa","תגית ארגמנית","Dipsaceae","Annual","female_summer",0.045423
+"Scabiosa","תגית ארגמנית","Dipsaceae","Annual","male_summer",0.014725
+"Schismus","שסיע ערבי","Poaceae","Annual","male_spring",0.024845
+"Schismus","שסיע ערבי","Poaceae","Annual","female_spring",0.003644
+"Schismus","שסיע ערבי","Poaceae","Annual","female_summer",0.012614
+"Schismus","שסיע ערבי","Poaceae","Annual","male_summer",0.052169
+"Silene","ציפורנית דקיקה, החולות, לילית, מגוונת, מדברית, מעורקת, מפושקת, מקפוחת, ענפה, ערבית","Caryophyllaceae","Annual","male_spring",0.013281
+"Silene","ציפורנית דקיקה, החולות, לילית, מגוונת, מדברית, מעורקת, מפושקת, מקפוחת, ענפה, ערבית","Caryophyllaceae","Annual","female_spring",0.142134
+"Silene","ציפורנית דקיקה, החולות, לילית, מגוונת, מדברית, מעורקת, מפושקת, מקפוחת, ענפה, ערבית","Caryophyllaceae","Annual","female_summer",0.056932
+"Silene","ציפורנית דקיקה, החולות, לילית, מגוונת, מדברית, מעורקת, מפושקת, מקפוחת, ענפה, ערבית","Caryophyllaceae","Annual","male_summer",0.03021
+"Solanum","סולנום זיתני, שחור, שעיר","Solanaceae","Hemicryptophyte","male_spring",0.052946
+"Solanum","סולנום זיתני, שחור, שעיר","Solanaceae","Hemicryptophyte","female_spring",0.100683
+"Solanum","סולנום זיתני, שחור, שעיר","Solanaceae","Hemicryptophyte","female_summer",0
+"Solanum","סולנום זיתני, שחור, שעיר","Solanaceae","Hemicryptophyte","male_summer",0.09563
+"Sonchus","מרור הגינות, עדין","Asteraceae","Annual","male_spring",0.138529
+"Sonchus","מרור הגינות, עדין","Asteraceae","Annual","female_spring",0.039362
+"Sonchus","מרור הגינות, עדין","Asteraceae","Annual","female_summer",0
+"Sonchus","מרור הגינות, עדין","Asteraceae","Annual","male_summer",0
+"Stipagrostis","מלענן המטאטאים, מנוצה","Poaceae","Chamaephyte","male_spring",0.002042
+"Stipagrostis","מלענן המטאטאים, מנוצה","Poaceae","Chamaephyte","female_spring",0
+"Stipagrostis","מלענן המטאטאים, מנוצה","Poaceae","Chamaephyte","female_summer",0.160603
+"Stipagrostis","מלענן המטאטאים, מנוצה","Poaceae","Chamaephyte","male_summer",0.053145
+"Suaeda","אוכם מדברי, מצרי, שיחני","Chenopodiaceae","Phanerophyte","male_spring",0
+"Suaeda","אוכם מדברי, מצרי, שיחני","Chenopodiaceae","Phanerophyte","female_spring",0
+"Suaeda","אוכם מדברי, מצרי, שיחני","Chenopodiaceae","Phanerophyte","female_summer",0.059458
+"Suaeda","אוכם מדברי, מצרי, שיחני","Chenopodiaceae","Phanerophyte","male_summer",0.018976
+"Tamarix","אשל היאור, הפרקים, מרובע","Tamaricaceae","Phanerophyte","male_spring",0
+"Tamarix","אשל היאור, הפרקים, מרובע","Tamaricaceae","Phanerophyte","female_spring",0
+"Tamarix","אשל היאור, הפרקים, מרובע","Tamaricaceae","Phanerophyte","female_summer",0.095442
+"Tamarix","אשל היאור, הפרקים, מרובע","Tamaricaceae","Phanerophyte","male_summer",0.0547
+"Tanacetum","בן-חרצית גזור","Asteraceae","Chamaephyte","male_spring",0.021164
+"Tanacetum","בן-חרצית גזור","Asteraceae","Chamaephyte","female_spring",0
+"Tanacetum","בן-חרצית גזור","Asteraceae","Chamaephyte","female_summer",0.059495
+"Tanacetum","בן-חרצית גזור","Asteraceae","Chamaephyte","male_summer",0.067367
+"Teucrium","געדה מצויה","Lamiaceae","Chamaephyte","male_spring",0.027737
+"Teucrium","געדה מצויה","Lamiaceae","Chamaephyte","female_spring",0
+"Teucrium","געדה מצויה","Lamiaceae","Chamaephyte","female_summer",0.286959
+"Teucrium","געדה מצויה","Lamiaceae","Chamaephyte","male_summer",0.088569
+"Tragopogon","זקן-תיש מדברי","Asteraceae","Hemicryptophyte","male_spring",0.009422
+"Tragopogon","זקן-תיש מדברי","Asteraceae","Hemicryptophyte","female_spring",0
+"Tragopogon","זקן-תיש מדברי","Asteraceae","Hemicryptophyte","female_summer",0
+"Tragopogon","זקן-תיש מדברי","Asteraceae","Hemicryptophyte","male_summer",0
+"Trifolium","תלתן לביד, נאה","Fabaceae","Annual","male_spring",0.211474
+"Trifolium","תלתן לביד, נאה","Fabaceae","Annual","female_spring",0
+"Trifolium","תלתן לביד, נאה","Fabaceae","Annual","female_summer",0
+"Trifolium","תלתן לביד, נאה","Fabaceae","Annual","male_summer",0.064612
+"Trigonella","גרגרנית כוכבנית, מדברית, ערבית","Papilionaceae","Annual","male_spring",0.010712
+"Trigonella","גרגרנית כוכבנית, מדברית, ערבית","Papilionaceae","Annual","female_spring",0
+"Trigonella","גרגרנית כוכבנית, מדברית, ערבית","Papilionaceae","Annual","female_summer",0
+"Trigonella","גרגרנית כוכבנית, מדברית, ערבית","Papilionaceae","Annual","male_summer",0.18543
+"Umbilicus","טבורית נטויה","Crassulaceae","Geophyte","male_spring",0.095194
+"Umbilicus","טבורית נטויה","Crassulaceae","Geophyte","female_spring",0.108589
+"Umbilicus","טבורית נטויה","Crassulaceae","Geophyte","female_summer",0.115909
+"Umbilicus","טבורית נטויה","Crassulaceae","Geophyte","male_summer",0.004492
+"Urtica","0","Urticaceae","Unknown","male_spring",0.005038
+"Urtica","0","Urticaceae","Unknown","female_spring",0
+"Urtica","0","Urticaceae","Unknown","female_summer",0
+"Urtica","0","Urticaceae","Unknown","male_summer",0
+"Valerianella","ולריינית מכונפת, ערבתית","Valerianaceae","Annual","male_spring",0.112724
+"Valerianella","ולריינית מכונפת, ערבתית","Valerianaceae","Annual","female_spring",0
+"Valerianella","ולריינית מכונפת, ערבתית","Valerianaceae","Annual","female_summer",0
+"Valerianella","ולריינית מכונפת, ערבתית","Valerianaceae","Annual","male_summer",0.069255
+"Vicia","בקיה מדורבנת, מצויה, תרבותית","Papilionaceae","Annual","male_spring",0.028198
+"Vicia","בקיה מדורבנת, מצויה, תרבותית","Papilionaceae","Annual","female_spring",0
+"Vicia","בקיה מדורבנת, מצויה, תרבותית","Papilionaceae","Annual","female_summer",0
+"Vicia","בקיה מדורבנת, מצויה, תרבותית","Papilionaceae","Annual","male_summer",0.120486
+"Zygophyllum","זוגן השיח","Zygophyllaceae","Chamaephyte","male_spring",0.020209
+"Zygophyllum","זוגן השיח","Zygophyllaceae","Chamaephyte","female_spring",0.007849
+"Zygophyllum","זוגן השיח","Zygophyllaceae","Chamaephyte","female_summer",0.026883
+"Zygophyllum","זוגן השיח","Zygophyllaceae","Chamaephyte","male_summer",0.034998

@@ -1,0 +1,109 @@
+genus,rfo_male_spring,rfo_female_spring,rfo_female_summer,rfo_male_summer,rfo,Genera,Family,Hebrew_Genus_Names,Short_list,Species_number,Common_overall,Common_Here,Annual/Perennial,common life forms,Annual,Chamaephyte,Geophyte,Hemicryptophyte,Phanerophyte,Spininess,Succulence,saline soils ,affinity to disturbed areas,includes non-native species,Found in wildass samples?,Soil_Seed_Bank_Abundance
+Adonis,0.03145308,0,0,0,0.02817372,Adonis,Ranunculaceae,דמומית משוננת,Exclude,1,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,0,
+Allium,0.08817595,0.00896612,0,0.0114017,0.1109317,Allium,Amaryllidaceae ,"שום קצר, קטוע, צנוע, הרשת, הנגב, המדבר, הלענה, דרומי, גבוה, אשרסון, ארץ ישראלי, ארדל",Keep,12,3,2,A,Geophyte,0,0,1,0,0,0,0,1,1,0,0,
+Amaranthus,0.1050528,0,0.1842489,0.07092694,0.00458468,Amaranthus,Amaranthaceae,"ירבוז לבן, מופשל",Keep,2,1,2,A,Annual,1,0,0,0,0,1,0,1,5,1,0,
+Anabasis,0.06520403,0.00486528,0.01318161,0.00020899,0.02986263,Anabasis,Chenopodiaceae,"יפרוק תלת כנפי, זיפני, המדבר",Keep,3,3,1,P,Chamaephyte,0,1,0,0,0,0,1,2,2,0,0,
+Anchusa,0.0722955,0.06277755,0.1635451,0.1419777,0.04505584,Anchusa,Boraginaceae,"לשון פר סמורה, מצרית, מדברית",Exclude,3,1,2,A/P,Annual\Hemicryptophyte,1,0,0,1,0,1,0,1,1,0,1,2
+Arabis,0.02351188,0,0,0,0.02562676,Arabis,Brassicaceae,"ארביס אביבי, אוזני",Exclude,2,4,4,A,Annual,1,0,0,0,0,0,0,1,1,0,1,2
+Arnebia,0.00822532,0.1361463,0,0,0.01498486,Arnebia,Boraginaceae,"ארנבית הצבעית, צרת עלים, שרועה",Exclude,3,2,1,A,Annual,1,0,0,0,0,1,0,1,1,0,1,4
+Asparagus,0.01702873,0,0,0,0.0122025,Asparagus,Liliaceae,אספרג ארוך עלים,Exclude,1,2,2,P,Geophyte,0,0,1,0,0,1,0,1,1,0,0,
+Asperugo,0.00956947,0.00101032,0,0,0.04854448,Asperugo,Boraginaceae,חספסת שרועה,Exclude,1,3,3,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Asphodelus,0,0,0,0.05588912,0.09344034,Asphodelus,Liliaceae,"עירית גדולה, דביקה, צרת-עלים",Exclude,3,1,1,A/P,Annual\Hemicryptophyte,1,0,0,1,0,0,0,1,1,0,0,
+Astragalus,0.00976994,0.09000407,0.2326275,0.1475698,0.01785967,Astragalus,Papilionaceae,"קדד אפיל, באר שבע, בית הלחמי, האנקולים, האצבעות, הטבעות, הנגב, יפה, מדברי, מצליב, מקומט, משוחלף, משייני, קדוש, קהירי, קוטבי, שעיר",Keep,17,3,1,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,1,1,0,1,93
+Atriplex,0.07582649,0.09690776,0.04222733,0.02354268,0.01064694,Atriplex,Chenopodiaceae,"מלוח מילר, מלבין, קיפח, ספוגי, קטן-עלים, קטן-פרי , שנוי-פירות",Keep,7,2,1,A/P,Annual\Chamaephte\Phanerophyte,1,1,0,0,1,0,1,2,3,1,1,25
+Avena,0.03714377,0.00354167,0.1236759,0.01299527,0.05421568,Avena,Poaceae,"שיבולת-שועל מתפרקת, נפוצה, ערבתית",Keep,3,1,1,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Bellevalia,0.07811698,0.07479738,0,0.04332182,0.01055398,Bellevalia,Asparagaceae,"זמזומית איג, המדבר, זהרי",Exclude,3,1,1,P,Geophyte,0,0,1,0,0,0,0,1,1,0,0,
+Biscutella,0.04530299,0.00142712,0.07140123,0.03429993,0.07957669,Biscutella,Brassicaceae,מצילתיים מצויות,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Bougainvillea,0.01955063,0,0,0,0.07589008,Bougainvillea,0,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Brachypodium,0.00194823,0.01765089,0.00771753,0.1110651,0.00282838,Brachypodium,Poaceae,עוקצר מצוי,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,3,0,1,3
+Brassica,0,0,0,0.1132211,0.00397679,Brassica,0,כרוב החוף,Exclude,1,2,2,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Bromus,0.04622947,0.1349054,0.01872878,0.1612421,0.06287235,Bromus,Poaceae,"ברומית אדמונית, אזמלנית, המטאטא, זנב-שועל, מאוגדת, ספרדית, רבת-מלענים",Keep,7,2,2,A,Annual,1,0,0,0,0,0,0,1,1,0,1,35
+Calendula,0.1141644,0.08399652,0.08439877,0.1212196,0.04914492,Calendula,Asteraceae,"ציפורני-חתול מצויות, מכונפות",Keep,2,1,1,A,Annual,1,0,0,0,0,0,0,1,2,0,1,3
+Capsicum,0.1509373,0.02035445,0.00812971,0,0.03449323,Capsicum,0,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Carex,0.01815786,0,0,0.044339,0.06071366,Carex,Cyperaceae,כריך הערבות,Exclude,1,1,1,A,Geophyte,0,0,1,0,0,0,0,1,1,0,1,7
+Cenchrus,0,0.1668168,0,0.1966957,0.06490237,Cenchrus,Poaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Chiliadenus,0.1022315,0.0025432,0.00413087,0.02573785,0.04488155,Chiliadenus,Asteraceae,כתלה חריפה,Exclude,1,1,1,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Cistanche,0,0,0,0.1558356,0.1150107,Cistanche,Orobanchaceae,"יחנוק צמיר, המדבר, סגול",Exclude,3,3,2,P,Hemicryptophyte,0,0,0,1,0,0,1,2,1,0,0,
+Colchicum,0.00798551,0,0,0,0.1184282,Colchicum,Colchicaceae,"סתוונית הנגב, הקליפות, טוביה",Exclude,3,3,1,P,Geopyhte,0,0,1,0,0,0,0,1,1,0,0,
+Convolvulus,0.1057249,0.0260823,0,0.02159199,0.06667896,Convolvulus,Convolvulaceae,"חבלבל זיתני, משובל, כפני, המשי",Exclude,4,3,2,P,Chamaephyte\Geophyte,0,1,1,0,0,0,0,1,2,0,0,
+Cucumis,0.06397013,0,0,0.05203435,0.0551511,Cucumis,Cucurbitaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Cupressus,0.4408854,0.1242406,0,0,0.02554195,Cupressus,Cupressaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Cuscuta,0.1130714,0.03367396,0.02886678,0.2736359,0.2154487,Cuscuta,Convolvulaceae,0,Keep,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Cynodon,0.1606697,0,0.2435761,0.0134366,0.01716547,Cynodon,Poaceae,יבלית מצויה,Keep,1,1,1,P,Geophyte\Hemicryptophyte,0,0,1,1,0,0,0,1,3,1,0,
+Dianthus,0.0756926,0.133974,0.06770592,0.1045904,0.01982824,Dianthus,Caryophyllaceae,ציפורן נקוד,Keep,1,2,2,P,Hemicryptophyte,0,0,0,1,0,0,0,1,2,0,1,2
+Diplotaxis,0.1464596,0.02928554,0.05530013,0.03313868,0.2204017,Diplotaxis,Brassicaceae,"טוריים מדבריים, זיפניים",Keep,2,2,2,A,Annual,1,0,0,0,0,0,0,1,1,0,1,81
+Echinops,0.186744,0.02670781,0.08784993,0.05314667,0.06618246,Echinops,Asteraceae,קיפודן בלאנש,Keep,1,2,2,A,Hemicryptophyte,0,0,0,1,0,0,0,1,2,0,0,
+Ephedra,0.01796382,0,0,0.03028112,0.03516738,Ephedra,Ephedraceae,שרביטן ריסני,Exclude,1,1,1,P,Phanerophyte,0,0,0,0,1,0,0,1,2,0,0,
+Erodium,0.01001281,0.00870703,0.0277288,0.01145529,0.03775613,Erodium,Geraniaceae,"מקור-חסידה ארוך, גזור, מדברי, מלבין, מעוצה, מפוצלת, מצוי, מצרי, קירח, שעיר",Keep,10,2,2,A,Hemicryptophyte,0,0,0,1,0,0,0,1,1,0,1,20
+Eryngium,0.0108928,0.1300247,0.03052563,0.01343471,0.1272141,Eryngium,Apiaceae,חרחבינה מכחילה,Keep,1,2,2,P,Hemicryptophyte,0,0,0,1,0,1,0,1,1,0,0,
+Euphorbia,0.02734744,0,0,0.1111165,0.06838772,Euphorbia,Euphorbiaceae,"חלבלוב רמון, פעוט",Exclude,2,1,1,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,1,1,0,1,3
+Fagonia,0.1181032,0,0.05316939,0.04032719,0.3096606,Fagonia,Zygophyllaceae,"פגוניה דביקה, ערבית, קטנת-פרחים, רכה, סיני",Keep,5,2,1,P,Chamaephyte,0,1,0,0,0,1,0,1,1,0,0,
+Fumana,0.02426691,0.02962562,0.05401255,0.00087924,0.1180207,Fumana,Cistaceae,לוטמית דביקה,Exclude,1,1,1,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Fumaria,0,0.02233972,0,0,0.02287346,Fumaria,Papaveraceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Geranium,0,0.04677478,0,0,0.04913182,Geranium,Geraniaceae,"גרניון רך, הפקעות, הארגמן, עגול",Exclude,4,2,3,A/P,Annual\Geophyte,1,0,1,0,0,0,0,1,1,0,0,
+Gymnocarpos,0.1036625,0.00183406,0.04838704,0.01161478,0.359689,Gymnocarpos,Caryophyllaceae,ערטל מדברי,Keep,1,1,1,P,Chamaephyte,0,1,0,0,0,0,1,1,1,0,0,
+Gypsophila,0.1028902,0.1217511,0,0,0.04420098,Gypsophila,Caryophyllaceae,"גבסנית דביקה, ערבית",Exclude,2,1,2,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Hammada,0.01462168,0,0.00529045,0.01604214,0.05226252,#CALC!,,,,,,,,,,,,,,,,,,,,
+Haplophyllum,0.09220014,0,0,0.06217842,0.05054277,Haplophyllum,Rutaceae,"פיגמית הסלע, מגובששת",Exclude,2,2,2,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Helianthemum,0.1224388,0.03657891,0.06009857,0.02704839,0.2698542,Helianthemum,Cistaceae,"שמשון הדור, הנגב, ליפי, מצוי, מצרי, קהירי, ריסני, סגלגל",Keep,7,2,2,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,1,1,0,1,55
+Heliotropium,0.0045878,0,0,0,0.03569835,Heliotropium,Boraginaceae,"עוקץ-עקרב אירופי, גלוני, מדברי, עגול-עלים, צהוב",Exclude,5,2,1,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,1,2,0,1,2
+Hibiscus,0.04085545,0,0.00942402,0.02803568,0.05632099,Hibiscus,Malvaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Hippocrepis,0.03337882,0.05696592,0.1240314,0.2405598,0.00590571,Hippocrepis,Fabaceae,פרסת-סוס דלת-תרמילים,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,1,15
+Hordeum,0.06034002,0.02826608,0.08218174,0.02742286,0.05652818,Hordeum,Poaceae,"שעורת התבור, העכבר",Keep,2,1,1,A,Annual,1,0,0,0,0,0,0,1,2,0,1,3
+Ipomoea,0.00083636,0,0,0.1949967,0.03331142,Ipomoea,Convolvulaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lactuca,0,0,0,0.02229988,0.0533504,Lactuca,Asteraceae,"חסת המצפן, מזרחית",Exclude,2,2,1,A/P,Annual\Chamaephyte,1,1,0,0,0,1,0,1,3,0,0,
+Leontice,0.1078321,0,0,0,0.09271207,Leontice,Berberidaceae,ערטנית השדות,Exclude,1,2,2,A,Geophyte,0,0,1,0,0,0,0,1,3,0,0,
+Leontodon,0.01060264,0.09811728,0,0,0.06026332,#CALC!,,,,,,,,,,,,,,,,,,,,
+Lepidium,0.03925861,0,0,0.04760327,0.05163108,Lepidium,Brassicaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Leptaleum,0.1216192,0.07277086,0.08682051,0.1687183,0.2637497,Leptaleum,Brassicaceae,בינית המדבר,Exclude,1,3,2,A,Annual,1,0,0,0,0,0,0,3,1,0,1,10
+Limonium,0.1032091,0.1027617,0.00348482,0.01344062,0.06503288,Limonium,Plumbaginaceae,"עדעד המדבר, מאובק",Keep,2,2,2,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,3,1,0,0,
+Malva,0.01594891,0.07447243,0.00040267,0.00561727,0.1675463,Malva,Malvaceae,"חלמית גדולה, קטנת-פרחים, מצרית",Keep,3,2,1,A/P,Annual\Chamaephyte,1,1,0,0,0,0,0,1,3,0,1,98
+Matthiola,0.03691395,0.06971534,0.01980829,0.00083572,0.04472316,Matthiola,Brassicaceae,מנתור המדבר,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,1,32
+Medicago,0.02991017,0.00437466,0.04644314,0.05058918,0.07443037,Medicago,Papilionaceae,"אספסת גלגלית, החבית, הכתרים, מפוצלת, מצויה, מצויצת, עדשתית, קטועה, גרגרנית חד-פרחית, מאוצבעת, מצויה",Keep,12,1,2,A,Annual,1,0,0,0,0,0,0,1,1,0,1,21
+Melilotus,0,0,0,0.02147948,0.02418033,Melilotus,Fabaceae,דבשה הודית,Exclude,1,4,4,A,Annual,1,0,0,0,0,0,0,1,3,0,0,
+Melissa,0.05901392,0,0,0,0.05759034,Melissa,Lamiaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mertensia,0.1027518,0.00788401,0,0.06930594,0.02955884,Mertensia,0,0,Keep,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Momordica,0,0,0.0569666,0.0295407,0.04829763,Momordica,Cucurbitaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Moraea,0.1445146,0,0,0,0.04105107,Moraea,Iridaceae,"צהרון מצוי, קטן",Exclude,2,1,1,P,Geopyhte,0,0,1,0,0,0,0,1,2,0,0,
+Morettia,0,0,0.00524287,0,0.03895922,Morettia,Brassicaceae,מורטיה מלבינה,Exclude,1,4,4,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Moricandia,0,0,0,0.00724111,0.2330561,Moricandia,Brassicaceae,מוריקה מבריקה,Exclude,1,1,1,P,Chamaephyte,0,1,0,0,0,0,0,2,1,0,1,58
+Neotorularia,0.336518,0.03959191,0.04701219,0.09597723,0.05351345,Neotorularia,Brassicaceae,שנס המדבר,Keep,1,2,2,A,Annual,1,0,0,0,0,0,0,1,1,0,1,79
+Noaea,0.05024637,0.1945196,0.1210764,0.06920711,0.07243901,Noaea,Chenopodiaceae,נואית קוצנית,Keep,1,2,2,P,Phanerophyte,0,0,0,0,1,1,1,1,1,0,0,
+Papaver,0.09358207,0,0,0,0.07382042,Papaver,Papaveraceae,"פרג אגסי, זיפני",Exclude,2,2,1,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Paronychia,0.06448152,0.09241497,0,0,0.151913,Paronychia,Caryophyllaceae,"אלמוות הכסף, הקרקפות, סיני, ערבי",Keep,4,3,1,P,Hemicryptophyte,0,0,0,1,0,0,0,1,1,0,1,4
+Peucedanum,0.02738309,0,0.0122948,0.1526161,0.1172335,Peucedanum,Apiaceae,אחישבת ענף,Exclude,1,3,3,A,Hemicryptophyte,0,0,0,1,0,0,0,1,2,0,0,
+Phalaris,0.2895798,0.05439235,0.08875108,0.2557584,0.00228603,Phalaris,Poaceae,"חפורית מוזרה, מצויה, קטנה",Exclude,3,1,1,A,Annual,1,0,0,0,0,0,0,1,4,0,1,26
+Pinus,0.00006552,0.03782984,0,0.02335599,0.01728724,Pinus,Pinaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Piptatherum,0.00970853,0,0,0,0.03645064,Piptatherum,Poaceae,נשרן הדוחן,Exclude,1,1,1,P,Hemicryptophyte,0,0,0,1,0,0,0,1,2,0,0,
+Plantago,0.01645042,0.02080783,0.1364659,0.01853507,0.02784591,Plantago,Plantaginaceae,"לחך בלוטי, החולות, חום-לוע, לופת, מלבין, משונן, סגלגל, ריסני, שסוע",Keep,9,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,1,64
+Polygonum,0.00086374,0.1924093,0.04877086,0.02932928,0.07124154,Polygonum,Polygonaceae,ארכובית שבטבטית,Keep,1,1,1,P,Hemicryptophyte,0,0,0,1,0,0,0,1,4,0,1,9
+Prosopis,0,0.05482803,0.00415546,0.07880878,0.02386688,Prosopis,Mimosaceae,"ינבוט השדה, מסקיטו",Exclude,1,2,2,P,Chamaephyte\Hemicryptophyte\Phanerophyte,0,1,0,1,1,1,0,2,4,1,0,
+Prunus,0.1032322,0.00489259,0.04819306,0.04269183,0.04223865,Prunus,Rosaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Raphanus,0,0,0.03046174,0,0.3337347,Raphanus,Brassicaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Reaumuria,0.07670333,0.04947066,0.0586028,0.03103105,0.07660667,Reaumuria,Tamaricaceae,אשליל הנגב,Keep,1,3,1,P,Chamaephyte,0,1,0,0,0,0,1,3,1,0,1,4
+Reichardia,0.1059872,0.052632,0.04047875,0.1080506,0.00308215,Reichardia,Asteraceae,תמריר מרוקני,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,1,9
+Rhamnus,0.09335362,0.3952221,0.00564858,0.01341306,0.00037428,Rhamnus,Rhamnaceae,אשחר דו-זרעי,Exclude,1,4,2,P,Phanerophyte,0,0,0,0,1,1,0,1,1,0,0,
+Rheum,0.1153802,0,0,0,0.03691297,Rheum,Polygonaceae,ריבס המדבר,Exclude,1,4,3,A,Hemicryptophyte,0,0,0,1,0,0,0,1,1,0,0,
+Rhodiola,0.00098409,0,0,0,0.2367737,Rhodiola,0,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Rumex,0.0053031,0.00762542,0.04921195,0.1576293,0.03582068,Rumex,Polygonaceae,"חומעה ורודה, מגוידת",Exclude,2,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,0,
+Salix,0,0.02850607,0.02161818,0.1370676,0.06150893,Salix,Salicaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Salsola,0.07111212,0,0.01036788,0.03532243,0.05403249,Salsola,Chenopodiaceae,"מלחית אשונה, אשלגנית, הישימון, הערבה, חומה, מבאישה, מזרחית, מסורגת, נגדית, עדינה",Exclude,10,2,1,A/P,Annual\Chamaephyte\Phanerophyte,1,1,0,0,1,0,1,3,3,0,1,21
+Salvia,0.1953796,0.00721335,0,0.0815443,0.00532061,Salvia,Lamiaceae,"מרווה ארץ-ישראלית, מצויה, מצרית, צמירה, קוצנית, ריחנית",Exclude,6,1,1,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Scabiosa,0.0180966,0.01513806,0.02242883,0.2016621,0.1141226,Scabiosa,Dipsaceae,תגית ארגמנית,Exclude,1,3,3,A,Annual,1,0,0,0,0,0,0,1,1,0,0,
+Schismus,0.09015251,0.00148211,0.01903488,0.06221494,0.05321166,Schismus,Poaceae,שסיע ערבי,Keep,1,1,1,A,Annual,1,0,0,0,0,0,0,1,1,0,1,1734
+Silene,0.08218518,0.04512432,0.00621057,0.00582331,0.1145232,Silene,Caryophyllaceae,"ציפורנית דקיקה, החולות, לילית, מגוונת, מדברית, מעורקת, מפושקת, מקפוחת, ענפה, ערבית",Keep,10,3,2,A,Annual,1,0,0,0,0,0,0,1,2,0,1,205
+Solanum,0.0027625,0.02610676,0,0.0111342,0.05976204,Solanum,Solanaceae,"סולנום זיתני, שחור, שעיר",Exclude,3,1,1,P,Hemicryptophyte,0,0,0,1,0,1,0,1,4,1,1,14
+Sonchus,0.01282563,0.02950657,0,0,0.01526885,Sonchus,Asteraceae,"מרור הגינות, עדין",Exclude,2,2,2,A,Annual,1,0,0,0,0,0,0,1,3,0,1,170
+Stipagrostis,0.04113871,0,0.0928458,0.01301003,0.0789959,Stipagrostis,Poaceae,"מלענן המטאטאים, מנוצה",Exclude,2,2,2,P,Chamaephyte\Hemicryptophyte,0,1,0,1,0,0,0,1,1,0,0,
+Suaeda,0,0,0.01603453,0.05312275,0.254669,Suaeda,Chenopodiaceae,"אוכם מדברי, מצרי, שיחני",Exclude,3,2,2,P,Phanerophyte,0,0,0,0,1,0,1,3,2,0,0,
+Tamarix,0,0,0.06414822,0.1163668,0.04515567,Tamarix,Tamaricaceae,"אשל היאור, הפרקים, מרובע",Exclude,3,2,2,P,Phanerophyte,0,0,0,0,1,0,0,2,1,0,1,25
+Tanacetum,0.08968109,0,0.0030653,0.09423319,0.04025319,Tanacetum,Asteraceae,בן-חרצית גזור,Exclude,1,4,4,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Teucrium,0.2196364,0,0.02549273,0.08170771,0.06556914,Teucrium,Lamiaceae,געדה מצויה,Exclude,1,1,1,P,Chamaephyte,0,1,0,0,0,0,0,1,1,0,0,
+Tragopogon,0.08058133,0,0,0,0.08552849,Tragopogon,Asteraceae,זקן-תיש מדברי,Exclude,1,4,4,A,Hemicryptophyte,0,0,0,1,0,0,0,1,1,0,0,
+Trifolium,0.00872275,0,0,0.03099048,0.00123421,Trifolium,Fabaceae,"תלתן לביד, נאה",Exclude,2,1,3,A,Annual,1,0,0,0,0,0,0,1,1,0,0,
+Trigonella,0.00092933,0,0,0.07670441,0.01606022,Trigonella,Papilionaceae,"גרגרנית כוכבנית, מדברית, ערבית",Exclude,3,2,1,A,Annual,1,0,0,0,0,0,0,2,1,0,1,100
+Umbilicus,0.0243203,0.1025009,0.2374777,0.1281428,0.06545806,Umbilicus,Crassulaceae,טבורית נטויה,Keep,1,3,3,A,Geophyte,0,0,1,0,0,0,1,1,2,0,0,
+Urtica,0.1200603,0,0,0,0.08504282,Urtica,Urticaceae,0,Exclude,Planted,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Valerianella,0.0148971,0,0,0.01295682,0.00687521,Valerianella,Valerianaceae,"ולריינית מכונפת, ערבתית",Exclude,2,3,3,A,Annual,1,0,0,0,0,0,0,1,1,0,1,10
+Vicia,0.06424692,0,0,0.1974823,0.1894501,Vicia,Papilionaceae,"בקיה מדורבנת, מצויה, תרבותית",Exclude,3,3,3,A,Annual,1,0,0,0,0,0,0,1,2,0,0,
+Zygophyllum,0.05611778,0.03601399,0.2112991,0.1116807,0.04407095,Zygophyllum,Zygophyllaceae,זוגן השיח,Keep,1,1,1,P,Chamaephyte,0,1,0,0,0,0,1,2,1,0,0,
