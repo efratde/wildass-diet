@@ -1,5 +1,8 @@
 # Negev Wild-Ass Diet Dashboard
 
+> **Portfolio demonstration — synthetic data.** Every figure, table, and map point in this dashboard — dietary diversity, RFO rankings, genus composition, trait proportions, distance-decay, and the plotted sample coordinates — is invented to mirror the real metabarcoding pipeline's schema and represents no real animal, measurement, sequencing read, or sampling location. This is a portfolio piece, not a real dataset.
+
+
 An interactive Shiny dashboard reconstructing the diet of the reintroduced wild-ass herd of Israel's Negev desert from **fecal DNA metabarcoding** (DNA extracted from dung). Across ~187 samples spanning both sexes and the spring/summer seasons, each dung sample yields a genus-level dietary profile; the app characterises dietary alpha-diversity, genus-level composition, plant life-form / trait use, the relative frequency of occurrence of each forage genus, and the spatial turnover of diet across the landscape. Built with `bslib` (navbar UI), `plotly` (interactive charts), and `leaflet` (sample map), it turns a multi-analysis metabarcoding pipeline into a browsable, reproducible exhibit.
 
 ## Live demo
